@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rex2112
-- 👀 I’m interested in Python development, APIs and containers. Probably golang in the future
-- 🌱 I’m currently learning Git and Github to better control my code. Starting a project to build APIs to retrieve server information for support tasks
+- 👀 I’m interested in Web development, Python development, APIs and containers.
+- 🌱 I’m learning Git and Github to better control my code. Starting a project to build APIs to retrieve server information for support tasks
+- 🌱 I am also currently enrolled in a course on full stack web development with the new technologies. My previous exposure to full-stack was with Perl and PHP... Long time ago
 
 <!---
 - 💞️ I’m looking to collaborate on ...
